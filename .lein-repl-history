@@ -1,0 +1,9 @@
+(use 'training-day)
+(square 7)
+(take 20 (cycle ["foo" "bar"]))
+(get "Clojure" 2)
+(get "abc" 0)
+(fun [who] (str "Hello, " who "!"))
+(fn [who] (str "Hello, " who "!"))
+hai
+answer
